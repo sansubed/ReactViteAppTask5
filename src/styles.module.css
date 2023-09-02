@@ -10,7 +10,7 @@
   height: calc(80vh - 1rem);
   padding: 20px, 20px;
   margin: 10px;
-  background: linear-gradient(rgb(188, 55, 55) rgb(60, 11, 11));
+  background: linear-gradient(white, #9198e5);
 }
 .figure {
   padding: 50px;
