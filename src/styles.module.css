@@ -1,0 +1,39 @@
+.header {
+  height: 2rem;
+  padding: 10px;
+  background-color: red;
+  margin: 2px;
+  border: 10px solid black;
+}
+
+.main {
+  height: calc(80vh - 1rem);
+  padding: 20px, 20px;
+  margin: 10px;
+  background: linear-gradient(rgb(188, 55, 55) rgb(60, 11, 11));
+}
+.figure {
+  padding: 50px;
+  height: 200px;
+  display: flex;
+  border: 50px solid blue;
+  justify-content: center;
+}
+
+.box {
+  height: 50px;
+  width: 50px;
+  color: white;
+  background-color: black;
+  font-size: xx-large;
+}
+
+.footer {
+  height: 2rem;
+  padding: 10px;
+  background-color: red;
+  margin: 2px;
+  border: 10px solid black;
+  display: flex;
+  justify-content: center;
+}
